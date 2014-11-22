@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/gc-profiler-data" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/gc-profiler-ui" vcs="svn" />
+  </component>
+</project>
